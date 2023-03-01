@@ -3,9 +3,7 @@
         <title>php</title>
     </head>
     <body>
-        <p>pho echo commands</p>
-        <?php echo 'hello world'?>
-        <p>short echo tag which is equal to ECHO tag in php </p>
-        <?= 'echo please'?>
+        <h1>PHP FIRST PROGRAM</h1>
+        <?php echo 'hello welcome to php '?>;
     </body>
 </html>
